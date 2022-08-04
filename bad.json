@@ -1,1627 +1,1171 @@
 {
-    "bad": [
+     "good ": [
         {
-            "bad": "ainda não"
+             "good ":  "muito bom "
         },
         {
-            "bad": "de modo algum"
+             "good ":  "satisfeito "
         },
         {
-            "bad": "de jeito nenhum"
+             "good ":  "abencoado "
         },
         {
-            "bad": "de forma alguma"
+             "good ":  "abnegacao "
         },
         {
-            "bad": "em hipótese alguma"
+             "good ":  "abrace "
         },
         {
-            "bad": "já não"
+             "good ":  "abrigo "
         },
         {
-            "bad": "jamais"
+             "good ":  "absoluto "
         },
         {
-            "bad": "nada"
+             "good ":  "absorvido "
         },
         {
-            "bad": "não"
+             "good ":  "abundante "
         },
         {
-            "bad": "nenhures"
+             "good ":  "abundancia "
         },
         {
-            "bad": "nunca"
+             "good ":  "aceitacao "
         },
         {
-            "bad": "nem"
+             "good ":  "acessivel "
         },
         {
-            "bad": "nem mesmo"
+             "good ":  "aclamado "
         },
         {
-            "bad": "nem ao menos"
+             "good ":  "acomodacao "
         },
         {
-            "bad": "ninguém"
+             "good ":  "aconchego "
         },
         {
-            "bad": "nunca"
+             "good ":  "activo "
         },
         {
-            "bad": "nunca mais"
+             "good ":  "adaptabilidade "
         },
         {
-            "bad": "tão pouco"
+             "good ":  "adequada "
         },
         {
-            "bad": "não quero"
+             "good ":  "adicao "
         },
         {
-            "bad": "Mal"
+             "good ":  "admiravel "
         },
         {
-            "bad": "estragar"
+             "good ":  "adorado "
         },
         {
-            "bad": "nenhum"
+             "good ":  "afabilidade "
         },
         {
-            "bad": "perda"
+             "good ":  "afirmacao "
         },
         {
-            "bad": "violação  "
+             "good ":  "afluencia "
         },
         {
-            "bad": "inválido  "
+             "good ":  "afavel "
         },
         {
-            "bad": "Diferença "
+             "good ":  "agil "
         },
         {
-            "bad": "incapaz "
+             "good ":  "agilidade "
         },
         {
-            "bad": "Nenhuma "
+             "good ":  "agradecimento "
         },
         {
-            "bad": "desperdiçada "
+             "good ":  "agradavel "
         },
         {
-            "bad": "blasfêmia "
+             "good ":  "alegre "
         },
         {
-            "bad": "contra "
+             "good ":  "alerta "
         },
         {
-            "bad": "desprezo "
+             "good ":  "aliviado "
         },
         {
-            "bad": "malicioso  "
+             "good ":  "altivo "
         },
         {
-            "bad": "relutante  "
+             "good ":  "altruista "
         },
         {
-            "bad": "calúnia "
+             "good ":  "alucinante "
         },
         {
-            "bad": "rude "
+             "good ":  "alivio "
         },
         {
-            "bad": "insulto "
+             "good ":  "amabilidade "
         },
         {
-            "bad": "prejudicial  "
+             "good ":  "amada "
         },
         {
-            "bad": "atrevido  "
+             "good ":  "ambicao "
         },
         {
-            "bad": "juras "
+             "good ":  "amigavel "
         },
         {
-            "bad": "impertinentes  "
+             "good ":  "amavel "
         },
         {
-            "bad": "ataque  "
+             "good ":  "angelico "
         },
         {
-            "bad": "assustador  "
+             "good ":  "animada "
         },
         {
-            "bad": "desagradável  "
+             "good ":  "ansiar "
         },
         {
-            "bad": "Maldito  "
+             "good ":  "apoio "
         },
         {
-            "bad": "desconfortável  "
+             "good ":  "aprecia "
         },
         {
-            "bad": "Ódio  "
+             "good ":  "aprender "
         },
         {
-            "bad": "lamentação  "
+             "good ":  "aprovar "
         },
         {
-            "bad": "cruel"
+             "good ":  "aprovacao "
         },
         {
-            "bad": "repugnante "
+             "good ":  "assertividade "
         },
         {
-            "bad": "maldade  "
+             "good ":  "assiduidade "
         },
         {
-            "bad": "ruindade  "
+             "good ":  "atencioso "
         },
         {
-            "bad": "desuso  "
+             "good ":  "atencao "
         },
         {
-            "bad": "desutilidade  "
+             "good ":  "atraente "
         },
         {
-            "bad": "desvantagem  "
+             "good ":  "atrativo "
         },
         {
-            "bad": "impraticabilidade  "
+             "good ":  "autentico  "
         },
         {
-            "bad": "imprestabilidade  "
+             "good ":  "autenticidade "
         },
         {
-            "bad": "improficuidade  "
+             "good ":  "bem estar "
         },
         {
-            "bad": "inaplicabilidade  "
+             "good ":  "beneficio "
         },
         {
-            "bad": "incapacidade  "
+             "good ":  "benevolente "
         },
         {
-            "bad": "ineficácia  "
+             "good ":  "benfeitor "
         },
         {
-            "bad": "ineficiência  "
+             "good ":  "benefico "
         },
         {
-            "bad": "infrutuosidade  "
+             "good ":  "bom "
         },
         {
-            "bad": "inutilidade  "
+             "good ":  "bom humor "
         },
         {
-            "bad": "nulidade  "
+             "good ":  "bondade "
         },
         {
-            "bad": "superfluidade  "
+             "good ":  "brilhante "
         },
         {
-            "bad": "austereza  "
+             "good ":  "campeao "
         },
         {
-            "bad": "insultuoso  "
+             "good ":  "capaz "
         },
         {
-            "bad": "afrontoso  "
+             "good ":  "carinho "
         },
         {
-            "bad": "agressivo  "
+             "good ":  "carisma "
         },
         {
-            "bad": "aviltante  "
+             "good ":  "caritativo "
         },
         {
-            "bad": "blasfematório  "
+             "good ":  "caricia "
         },
         {
-            "bad": "depreciativo  "
+             "good ":  "cavalheiro "
         },
         {
-            "bad": "desdenhoso  "
+             "good ":  "ceder "
         },
         {
-            "bad": "desfavorável  "
+             "good ":  "centrado "
         },
         {
-            "bad": "desonroso  "
+             "good ":  "certeza "
         },
         {
-            "bad": "difamatório  "
+             "good ":  "charme "
         },
         {
-            "bad": "grosseiro  "
+             "good ":  "clareza "
         },
         {
-            "bad": "humilhante  "
+             "good ":  "colaboracao "
         },
         {
-            "bad": "injurioso  "
+             "good ":  "compassivo "
         },
         {
-            "bad": "insolente  "
+             "good ":  "companheirismo "
         },
         {
-            "bad": "insultante  "
+             "good ":  "concentracao "
         },
         {
-            "bad": "malcriado  "
+             "good ":  "confiante "
         },
         {
-            "bad": "ofensivo  "
+             "good ":  "confiavel "
         },
         {
-            "bad": "detestável  "
+             "good ":  "conforto "
         },
         {
-            "bad": "malvado  "
+             "good ":  "congruencia "
         },
         {
-            "bad": "abominável  "
+             "good ":  "conexao "
         },
         {
-            "bad": "abominoso  "
+             "good ":  "conquistar "
         },
         {
-            "bad": "aborrecível  "
+             "good ":  "consciente "
         },
         {
-            "bad": "amaldiçoado  "
+             "good ":  "consciencia "
         },
         {
-            "bad": "antipático  "
+             "good ":  "consistencia "
         },
         {
-            "bad": "desagradável  "
+             "good ":  "contente "
         },
         {
-            "bad": "detestando  "
+             "good ":  "continuidade "
         },
         {
-            "bad": "insuportável  "
+             "good ":  "contribuicao "
         },
         {
-            "bad": "intolerável  "
+             "good ":  "conviccao "
         },
         {
-            "bad": "odioso  "
+             "good ":  "cooperacao "
         },
         {
-            "bad": "péssimo  "
+             "good ":  "coragem "
         },
         {
-            "bad": "deplorável  "
+             "good ":  "cordial "
         },
         {
-            "bad": "execrável"
+             "good ":  "cortesia "
         },
         {
-            "bad": "repulsivo"
+             "good ":  "crescimento "
         },
         {
-            "bad": "Alienado"
+             "good ":  "criatividade "
         },
         {
-            "bad": "AnimaldeTeta"
+             "good ":  "crivel "
         },
         {
-            "bad": "Anormal"
+             "good ":  "cuidado "
         },
         {
-            "bad": "Argentino"
+             "good ":  "cumprir "
         },
         {
-            "bad": "Arregassado"
+             "good ":  "decente "
         },
         {
-            "bad": "Arrombado"
+             "good ":  "dedicado "
         },
         {
-            "bad": "Babaca"
+             "good ":  "delicado "
         },
         {
-            "bad": "Baitola"
+             "good ":  "deliciosa "
         },
         {
-            "bad": "Baleia"
+             "good ":  "desafio "
         },
         {
-            "bad": "Barril"
+             "good ":  "descoberta "
         },
         {
-            "bad": "Benfiquista"
+             "good ":  "desejo "
         },
         {
-            "bad": "Biba"
+             "good ":  "desenvoltura "
         },
         {
-            "bad": "Bicha"
+             "good ":  "deslumbrado "
         },
         {
-            "bad": "BIOS"
+             "good ":  "destacamento "
         },
         {
-            "bad": "Biroska"
+             "good ":  "determinacao "
         },
         {
-            "bad": "Bobo"
+             "good ":  "dever "
         },
         {
-            "bad": "Bocal"
+             "good ":  "devotado "
         },
         {
-            "bad": "bolagato"
+             "good ":  "dignidade "
         },
         {
-            "bad": "Boqueteiro"
+             "good ":  "diligente "
         },
         {
-            "bad": "Bosta"
+             "good ":  "dinamico "
         },
         {
-            "bad": "Buceta"
+             "good ":  "disciplina "
         },
         {
-            "bad": "Bundao"
+             "good ":  "discricao "
         },
         {
-            "bad": "Burro"
+             "good ":  "disposto "
         },
         {
-            "bad": "Cabaco"
+             "good ":  "diversidade "
         },
         {
-            "bad": "Cacete"
+             "good ":  "divertido "
         },
         {
-            "bad": "Cadelona"
+             "good ":  "divino "
         },
         {
-            "bad": "Cafona"
+             "good ":  "educado "
         },
         {
-            "bad": "Cambista"
+             "good ":  "efervescencia "
         },
         {
-            "bad": "Capiroto"
+             "good ":  "eficiente "
         },
         {
-            "bad": "Caralho"
+             "good ":  "eficacia "
         },
         {
-            "bad": "Catraia"
+             "good ":  "elegancia "
         },
         {
-            "bad": "Cepo"
+             "good ":  "elevado "
         },
         {
-            "bad": "Cocodrilo"
+             "good ":  "elogio "
         },
         {
-            "bad": "Cocozento"
+             "good ":  "embelezar "
         },
         {
-            "bad": "Cu"
+             "good ":  "emocionado "
         },
         {
-            "bad": "DebilMental"
+             "good ":  "empatia "
         },
         {
-            "bad": "Demente"
+             "good ":  "empoderar "
         },
         {
-            "bad": "Desciclope"
+             "good ":  "emular "
         },
         {
-            "bad": "Desgracado"
+             "good ":  "encantado "
         },
         {
-            "bad": "Drogado"
+             "good ":  "energia "
         },
         {
-            "bad": "EGUENORANTE"
+             "good ":  "enorme "
         },
         {
-            "bad": "Endemoniado"
+             "good ":  "entendimento "
         },
         {
-            "bad": "Energumeno"
+             "good ":  "entusiasmo "
         },
         {
-            "bad": "Enfianocu"
+             "good ":  "envolvidos "
         },
         {
-            "bad": "EngoleRola"
+             "good ":  "equanimidade "
         },
         {
-            "bad": "Escroto"
+             "good ":  "equidade "
         },
         {
-            "bad": "Esdruxulo"
+             "good ":  "equipe "
         },
         {
-            "bad": "Esporrado"
+             "good ":  "equanime "
         },
         {
-            "bad": "Estigalhado"
+             "good ":  "escolha "
         },
         {
-            "bad": "Estrume"
+             "good ":  "esforcado "
         },
         {
-            "bad": "Estrunxado"
+             "good ":  "espanto "
         },
         {
-            "bad": "Estupido"
+             "good ":  "espacoso "
         },
         {
-            "bad": "FDP"
+             "good ":  "especial "
         },
         {
-            "bad": "Fidumaegua"
+             "good ":  "esperanca "
         },
         {
-            "bad": "FilhodaPuta"
+             "good ":  "espetacular "
         },
         {
-            "bad": "Fiofo"
+             "good ":  "espirito "
         },
         {
-            "bad": "Foda"
+             "good ":  "estabilidade "
         },
         {
-            "bad": "Fuder"
+             "good ":  "estagnacao "
         },
         {
-            "bad": "Fudido"
+             "good ":  "estilo "
         },
         {
-            "bad": "Fulera"
+             "good ":  "estimulado "
         },
         {
-            "bad": "Galinha"
+             "good ":  "estudioso "
         },
         {
-            "bad": "Gambiarra"
+             "good ":  "estupendo "
         },
         {
-            "bad": "GeisyArruda"
+             "good ":  "eterno "
         },
         {
-            "bad": "Gnu"
+             "good ":  "euforico "
         },
         {
-            "bad": "Gonorreia"
+             "good ":  "evoluir "
         },
         {
-            "bad": "GordoEscroto"
+             "good ":  "exaltado "
         },
         {
-            "bad": "Gozado"
+             "good ":  "exato "
         },
         {
-            "bad": "Herege"
+             "good ":  "excelencia "
         },
         {
-            "bad": "Idiota"
+             "good ":  "excepcional "
         },
         {
-            "bad": "Ignorante"
+             "good ":  "excitado "
         },
         {
-            "bad": "Imbecil"
+             "good ":  "exemplar "
         },
         {
-            "bad": "Imundo"
+             "good ":  "expansivo "
         },
         {
-            "bad": "Inascivel"
+             "good ":  "expectante "
         },
         {
-            "bad": "Inseto"
+             "good ":  "experiencia "
         },
         {
-            "bad": "Invertebrado"
+             "good ":  "exploracao "
         },
         {
-            "bad": "Jacu"
+             "good ":  "expressivo "
         },
         {
-            "bad": "Jegue"
+             "good ":  "extraordinario "
         },
         {
-            "bad": "Jumento"
+             "good ":  "extrovertido "
         },
         {
-            "bad": "KCT"
+             "good ":  "exuberante "
         },
         {
-            "bad": "Komodo"
+             "good ":  "exultante "
         },
         {
-            "bad": "Ku"
+             "good ":  "fabuloso "
         },
         {
-            "bad": "lazarento"
+             "good ":  "facilidade "
         },
         {
-            "bad": "Lazaro!"
+             "good ":  "famoso "
         },
         {
-            "bad": "Leproso"
+             "good ":  "familia "
         },
         {
-            "bad": "lerdo"
+             "good ":  "fantasia "
         },
         {
-            "bad": "lesma"
+             "good ":  "fascinate "
         },
         {
-            "bad": "Lezado"
+             "good ":  "favorito "
         },
         {
-            "bad": "lico"
+             "good ":  "facanha "
         },
         {
-            "bad": "Limpezaanal"
+             "good ":  "felicidade "
         },
         {
-            "bad": "lixo"
+             "good ":  "festivo "
         },
         {
-            "bad": "lombriga"
+             "good ":  "fiabilidade "
         },
         {
-            "bad": "Macaco"
+             "good ":  "fidelidade "
         },
         {
-            "bad": "MariMoon"
+             "good ":  "fiel "
         },
         {
-            "bad": "Merda"
+             "good ":  "fina "
         },
         {
-            "bad": "Meretriz"
+             "good ":  "firmeza "
         },
         {
-            "bad": "MiolodeCu"
+             "good ":  "flexibilidade "
         },
         {
-            "bad": "Mocorongo"
+             "good ":  "foco "
         },
         {
-            "bad": "MontedeMerda"
+             "good ":  "facil "
         },
         {
-            "bad": "Morfetico"
+             "good ":  "facil "
         },
         {
-            "bad": "Mulambo"
+             "good ":  "generosidade "
         },
         {
-            "bad": "n00b"
+             "good ":  "genialidade "
         },
         {
-            "bad": "Nazista"
+             "good ":  "gentileza "
         },
         {
-            "bad": "Nerd"
+             "good ":  "genuino "
         },
         {
-            "bad": "Newbie"
+             "good ":  "gigantesco "
         },
         {
-            "bad": "Nhaca"
+             "good ":  "gostoso "
         },
         {
-            "bad": "Nonsense"
+             "good ":  "grandioso "
         },
         {
-            "bad": "Ogro"
+             "good ":  "gratidao "
         },
         {
-            "bad": "Olhodocu"
+             "good ":  "grato "
         },
         {
-            "bad": "OlhoGordo"
+             "good ":  "guia "
         },
         {
-            "bad": "Otario"
+             "good ":  "habil "
         },
         {
-            "bad": "Palhaco"
+             "good ":  "habilidade "
         },
         {
-            "bad": "Panaca"
+             "good ":  "harmonioso "
         },
         {
-            "bad": "Paraguaio"
+             "good ":  "heroi "
         },
         {
-            "bad": "Passaralho"
+             "good ":  "honra "
         },
         {
-            "bad": "PauNoCu"
+             "good ":  "hospitaleiro "
         },
         {
-            "bad": "Periquita"
+             "good ":  "hospitalidade "
         },
         {
-            "bad": "Pimenteira"
+             "good ":  "honesto "
         },
         {
-            "bad": "Pipoca"
+             "good ":  "humano "
         },
         {
-            "bad": "Piranha"
+             "good ":  "humilde "
         },
         {
-            "bad": "Piroca"
+             "good ":  "humor "
         },
         {
-            "bad": "Pistoleira"
+             "good ":  "idear "
         },
         {
-            "bad": "Porra"
+             "good ":  "idealismo "
         },
         {
-            "bad": "prostituta"
+             "good ":  "igualdade "
         },
         {
-            "bad": "Punheta"
+             "good ":  "iluminacao "
         },
         {
-            "bad": "Puta"
+             "good ":  "ilustre "
         },
         {
-            "bad": "PutaQuePariu"
+             "good ":  "imaginacao "
         },
         {
-            "bad": "Quasimodo"
+             "good ":  "impagavel "
         },
         {
-            "bad": "Quenga"
+             "good ":  "imperturbavel "
         },
         {
-            "bad": "Quirguistao"
+             "good ":  "impressionante "
         },
         {
-            "bad": "Rampero"
+             "good ":  "inacreditavel "
         },
         {
-            "bad": "Rapariga"
+             "good ":  "incentivo "
         },
         {
-            "bad": "Raspadinha"
+             "good ":  "inclusao "
         },
         {
-            "bad": "Retardado"
+             "good ":  "incomparavel "
         },
         {
-            "bad": "Rusguento"
+             "good ":  "incondicional "
         },
         {
-            "bad": "Sanguesuga"
+             "good ":  "incrivel "
         },
         {
-            "bad": "Sujo"
+             "good ":  "independencia "
         },
         {
-            "bad": "Tapado"
+             "good ":  "inefavel "
         },
         {
-            "bad": "Tarado"
+             "good ":  "infinidade "
         },
         {
-            "bad": "Tesao"
+             "good ":  "infinito "
         },
         {
-            "bad": "Tetuda"
+             "good ":  "influencia "
         },
         {
-            "bad": "Tetudo"
+             "good ":  "inocente "
         },
         {
-            "bad": "Tosco"
+             "good ":  "inovacao "
         },
         {
-            "bad": "Tragado"
+             "good ":  "inspiracao "
         },
         {
-            "bad": "Travesti"
+             "good ":  "integridade "
         },
         {
-            "bad": "Trepadeira"
+             "good ":  "inteiro "
         },
         {
-            "bad": "Troglodita"
+             "good ":  "inteligencia "
         },
         {
-            "bad": "Urubu"
+             "good ":  "inteligente "
         },
         {
-            "bad": "Vaca"
+             "good ":  "intencao "
         },
         {
-            "bad": "Vadia"
+             "good ":  "interessante "
         },
         {
-            "bad": "Vagabundo"
+             "good ":  "intervir "
         },
         {
-            "bad": "Vagaranha"
+             "good ":  "intrepido "
         },
         {
-            "bad": "Vaiamerda"
+             "good ":  "intrigado "
         },
         {
-            "bad": "vaisefuder"
+             "good ":  "intuicao "
         },
         {
-            "bad": "Vaitomarnocu"
+             "good ":  "invencivel "
         },
         {
-            "bad": "Vascaino"
+             "good ":  "investimento "
         },
         {
-            "bad": "Verme"
+             "good ":  "jovial "
         },
         {
-            "bad": "Viado"
+             "good ":  "jubilante "
         },
         {
-            "bad": "Xavasca"
+             "good ":  "justica "
         },
         {
-            "bad": "Xereca"
+             "good ":  "lideranca "
         },
         {
-            "bad": "Xixizento"
+             "good ":  "lealdade "
         },
         {
-            "bad": "Xoxota"
+             "good ":  "legal "
         },
         {
-            "bad": "Xupetinha"
+             "good ":  "liberdade "
         },
         {
-            "bad": "Xupisco"
+             "good ":  "lindo "
         },
         {
-            "bad": "Xurupita"
+             "good ":  "longevidade "
         },
         {
-            "bad": "Xuxexo"
+             "good ":  "maduro "
         },
         {
-            "bad": "XXT"
+             "good ":  "magnifico "
         },
         {
-            "bad": "XXX"
+             "good ":  "majestade "
         },
         {
-            "bad": "ZeBuceta"
+             "good ":  "maravilhoso "
         },
         {
-            "bad": "Ziguizira"
+             "good ":  "maturidade "
         },
         {
-            "bad": "Zina"
+             "good ":  "memoravel "
         },
         {
-            "bad": "Zoado"
+             "good ":  "milagre "
         },
         {
-            "bad": "Zoiudo"
+             "good ":  "misericordia "
         },
         {
-            "bad": "Zoneira"
+             "good ":  "modestia "
         },
         {
-            "bad": "Zuado"
+             "good ":  "mutualidade "
         },
         {
-            "bad": "Zuera"
+             "good ":  "magica "
         },
         {
-            "bad": "Zulu"
+             "good ":  "namaste "
         },
         {
-            "bad": "Zureta"
+             "good ":  "nobre "
         },
         {
-            "bad": "ANUS"
+             "good ":  "notavel "
         },
         {
-            "bad": "BABA-OVO"
+             "good ":  "novo "
         },
         {
-            "bad": "BABAOVO"
+             "good ":  "obediente "
         },
         {
-            "bad": "BABACA"
+             "good ":  "oportunidade "
         },
         {
-            "bad": "BACURA"
+             "good ":  "otimista "
         },
         {
-            "bad": "BAGOS"
+             "good ":  "ordem "
         },
         {
-            "bad": "BAITOLA"
+             "good ":  "organizacao "
         },
         {
-            "bad": "BEBUM"
+             "good ":  "orgulho "
         },
         {
-            "bad": "BESTA"
+             "good ":  "orientacao "
         },
         {
-            "bad": "BICHA"
+             "good ":  "original "
         },
         {
-            "bad": "BISCA"
+             "good ":  "ostentando "
         },
         {
-            "bad": "BIXA"
+             "good ":  "otimismo "
         },
         {
-            "bad": "BOAZUDA"
+             "good ":  "ousadia "
         },
         {
-            "bad": "BOCETA"
+             "good ":  "paciencia "
         },
         {
-            "bad": "BOCO"
+             "good ":  "paixao "
         },
         {
-            "bad": "BOIOLA"
+             "good ":  "paz "
         },
         {
-            "bad": "BOLAGATO"
+             "good ":  "perdao "
         },
         {
-            "bad": "BOQUETE"
+             "good ":  "perfeicao "
         },
         {
-            "bad": "BOLCAT"
+             "good ":  "perseveranca "
         },
         {
-            "bad": "BOSSETA"
+             "good ":  "persistencia "
         },
         {
-            "bad": "BOSTA"
+             "good ":  "pontualidade "
         },
         {
-            "bad": "BOSTANA"
+             "good ":  "positivo "
         },
         {
-            "bad": "BRECHA"
+             "good ":  "praticidade "
         },
         {
-            "bad": "BREXA"
+             "good ":  "prazer "
         },
         {
-            "bad": "BRIOCO"
+             "good ":  "precisao "
         },
         {
-            "bad": "BRONHA"
+             "good ":  "presenca "
         },
         {
-            "bad": "BUCA"
+             "good ":  "preservacao "
         },
         {
-            "bad": "BUCETA"
+             "good ":  "presteza "
         },
         {
-            "bad": "BUNDA"
+             "good ":  "privacidade "
         },
         {
-            "bad": "BUNDUDA"
+             "good ":  "proatividade "
         },
         {
-            "bad": "BURRA"
+             "good ":  "progresso "
         },
         {
-            "bad": "BURRO"
+             "good ":  "prontidao "
         },
         {
-            "bad": "BUSSETA"
+             "good ":  "prosperidade "
         },
         {
-            "bad": "CACHORRA"
+             "good ":  "protecao "
         },
         {
-            "bad": "CACHORRO"
+             "good ":  "puro "
         },
         {
-            "bad": "CADELA"
+             "good ":  "qualidade "
         },
         {
-            "bad": "CAGA"
+             "good ":  "querido "
         },
         {
-            "bad": "CAGADO"
+             "good ":  "radiante "
         },
         {
-            "bad": "CAGAO"
+             "good ":  "rainha "
         },
         {
-            "bad": "CAGONA"
+             "good ":  "razao "
         },
         {
-            "bad": "CANALHA"
+             "good ":  "realizado "
         },
         {
-            "bad": "CARALHO"
+             "good ":  "reconfortante "
         },
         {
-            "bad": "CASSETA"
+             "good ":  "recurso "
         },
         {
-            "bad": "CASSETE"
+             "good ":  "refrescado "
         },
         {
-            "bad": "CHECHECA"
+             "good ":  "rejuvenescer "
         },
         {
-            "bad": "CHERECA"
+             "good ":  "relaxado "
         },
         {
-            "bad": "CHIBUMBA"
+             "good ":  "renascido "
         },
         {
-            "bad": "CHIBUMBO"
+             "good ":  "renomado "
         },
         {
-            "bad": "CHIFRUDA"
+             "good ":  "renovar "
         },
         {
-            "bad": "CHIFRUDO"
+             "good ":  "reputacao "
         },
         {
-            "bad": "CHOTA"
+             "good ":  "requintado "
         },
         {
-            "bad": "CHOCHOTA"
+             "good ":  "resiliente "
         },
         {
-            "bad": "CHUPADA"
+             "good ":  "resistencia "
         },
         {
-            "bad": "CHUPADO"
+             "good ":  "resoluto "
         },
         {
-            "bad": "CLITORIS"
+             "good ":  "respeitado "
         },
         {
-            "bad": "COCAINA"
+             "good ":  "responsavel "
         },
         {
-            "bad": "COCA-NA"
+             "good ":  "restaurar "
         },
         {
-            "bad": "COCO"
+             "good ":  "resultado "
         },
         {
-            "bad": "CORNA"
+             "good ":  "retidao "
         },
         {
-            "bad": "CORNO"
+             "good ":  "revelacao "
         },
         {
-            "bad": "CORNUDA"
+             "good ":  "reverencia "
         },
         {
-            "bad": "CORNUDO"
+             "good ":  "revigorado "
         },
         {
-            "bad": "CORRUPTA"
+             "good ":  "riqueza "
         },
         {
-            "bad": "CORRUPTO"
+             "good ":  "romantico "
         },
         {
-            "bad": "CRETINA"
+             "good ":  "sabedoria "
         },
         {
-            "bad": "CRETINO"
+             "good ":  "sabio "
         },
         {
-            "bad": "CRUZ-CREDO"
+             "good ":  "sagrado "
         },
         {
-            "bad": "CU"
+             "good ":  "satisfacao "
         },
         {
-            "bad": "CULHAO"
+             "good ":  "saudavel "
         },
         {
-            "bad": "CURALHO"
+             "good ":  "sedutor "
         },
         {
-            "bad": "CUZAO"
+             "good ":  "seguro "
         },
         {
-            "bad": "CUZUDA"
+             "good ":  "serenidade "
         },
         {
-            "bad": "CUZUDO"
+             "good ":  "seriedade "
         },
         {
-            "bad": "DEBIL"
+             "good ":  "simplicidade "
         },
         {
-            "bad": "DEBILOIDE"
+             "good ":  "simpatico "
         },
         {
-            "bad": "DEFUNTO"
+             "good ":  "sinceridade "
         },
         {
-            "bad": "DEMONIO"
+             "good ":  "sinergia "
         },
         {
-            "bad": "DIFUNTO"
+             "good ":  "sistematizacao "
         },
         {
-            "bad": "DOIDA"
+             "good ":  "sonhador "
         },
         {
-            "bad": "DOIDO"
+             "good ":  "sorridente "
         },
         {
-            "bad": "EGUA"
+             "good ":  "sorte "
         },
         {
-            "bad": "ESCROTA"
+             "good ":  "suavidade "
         },
         {
-            "bad": "ESCROTO"
+             "good ":  "sublime "
         },
         {
-            "bad": "ESPORRADA"
+             "good ":  "suficiente "
         },
         {
-            "bad": "ESPORRADO"
+             "good ":  "superado "
         },
         {
-            "bad": "ESPORRO"
+             "good ":  "surpreendido "
         },
         {
-            "bad": "ESTUPIDA"
+             "good ":  "surpresa "
         },
         {
-            "bad": "ESTUPIDEZ"
+             "good ":  "sustentado "
         },
         {
-            "bad": "ESTUPIDO"
+             "good ":  "tenacidade "
         },
         {
-            "bad": "FEDIDA"
+             "good ":  "tolerancia "
         },
         {
-            "bad": "FEDIDO"
+             "good ":  "trabalho "
         },
         {
-            "bad": "FEDOR"
+             "good ":  "tranquilidade "
         },
         {
-            "bad": "FEDORENTA"
+             "good ":  "transformacao "
         },
         {
-            "bad": "FEIA"
+             "good ":  "transparente "
         },
         {
-            "bad": "FEIO"
+             "good ":  "triunfo "
         },
         {
-            "bad": "FEIOSA"
+             "good ":  "unidade "
         },
         {
-            "bad": "FEIOSO"
+             "good ":  "unificacao "
         },
         {
-            "bad": "FEIOZA"
+             "good ":  "util "
         },
         {
-            "bad": "FEIOZO"
+             "good ":  "valioso "
         },
         {
-            "bad": "FELACAO"
+             "good ":  "vantagem "
         },
         {
-            "bad": "FENDA"
+             "good ":  "vantajoso "
         },
         {
-            "bad": "FODA"
+             "good ":  "verdade "
         },
         {
-            "bad": "FODAO"
+             "good ":  "versatilidade "
         },
         {
-            "bad": "FODE"
+             "good ":  "vertiginoso "
         },
         {
-            "bad": "FODIDA"
+             "good ":  "viavel "
         },
         {
-            "bad": "FODIDO"
+             "good ":  "vibrante "
         },
         {
-            "bad": "FORNICA"
+             "good ":  "vigor "
         },
         {
-            "bad": "FUDENDO"
+             "good ":  "virtuoso "
         },
         {
-            "bad": "FUDECAO"
+             "good ":  "vitalidade "
         },
         {
-            "bad": "FUDIDA"
+             "good ":  "vitorioso "
         },
         {
-            "bad": "FUDIDO"
+             "good ":  "vivacidade "
         },
         {
-            "bad": "FURADA"
-        },
-        {
-            "bad": "FURADO"
-        },
-        {
-            "bad": "FURAO"
-        },
-        {
-            "bad": "FURNICA"
-        },
-        {
-            "bad": "FURNICAR"
-        },
-        {
-            "bad": "FURO"
-        },
-        {
-            "bad": "FURONA"
-        },
-        {
-            "bad": "GAIATA"
-        },
-        {
-            "bad": "GAIATO"
-        },
-        {
-            "bad": "GAY"
-        },
-        {
-            "bad": "GONORREA"
-        },
-        {
-            "bad": "GONORREIA"
-        },
-        {
-            "bad": "GOSMA"
-        },
-        {
-            "bad": "GOSMENTA"
-        },
-        {
-            "bad": "GOSMENTO"
-        },
-        {
-            "bad": "GRELINHO"
-        },
-        {
-            "bad": "GRELO"
-        },
-        {
-            "bad": "HOMO-SEXUAL"
-        },
-        {
-            "bad": "HOMOSEXUAL"
-        },
-        {
-            "bad": "HOMOSSEXUAL"
-        },
-        {
-            "bad": "IDIOTA"
-        },
-        {
-            "bad": "IDIOTICE"
-        },
-        {
-            "bad": "IMBECIL"
-        },
-        {
-            "bad": "ISCROTA"
-        },
-        {
-            "bad": "ISCROTO"
-        },
-        {
-            "bad": "JAPA"
-        },
-        {
-            "bad": "LADRA"
-        },
-        {
-            "bad": "LADRAO"
-        },
-        {
-            "bad": "LADROEIRA"
-        },
-        {
-            "bad": "LADRONA"
-        },
-        {
-            "bad": "LALAU"
-        },
-        {
-            "bad": "LEPROSA"
-        },
-        {
-            "bad": "LEPROSO"
-        },
-        {
-            "bad": "LESBICA"
-        },
-        {
-            "bad": "MACACA"
-        },
-        {
-            "bad": "MACACO"
-        },
-        {
-            "bad": "MACHONA"
-        },
-        {
-            "bad": "MACHORRA"
-        },
-        {
-            "bad": "MANGUACA"
-        },
-        {
-            "bad": "MASTURBA"
-        },
-        {
-            "bad": "MELECA"
-        },
-        {
-            "bad": "MERDA"
-        },
-        {
-            "bad": "MIJA"
-        },
-        {
-            "bad": "MIJADA"
-        },
-        {
-            "bad": "MIJADO"
-        },
-        {
-            "bad": "MIJO"
-        },
-        {
-            "bad": "MOCREA"
-        },
-        {
-            "bad": "MOCREIA"
-        },
-        {
-            "bad": "MOLECA"
-        },
-        {
-            "bad": "MOLEQUE"
-        },
-        {
-            "bad": "MONDRONGA"
-        },
-        {
-            "bad": "MONDRONGO"
-        },
-        {
-            "bad": "NABA"
-        },
-        {
-            "bad": "NADEGA"
-        },
-        {
-            "bad": "NOJEIRA"
-        },
-        {
-            "bad": "NOJENTA"
-        },
-        {
-            "bad": "NOJENTO"
-        },
-        {
-            "bad": "NOJO"
-        },
-        {
-            "bad": "OLHOTA"
-        },
-        {
-            "bad": "OTARIA"
-        },
-        {
-            "bad": "OT-RIA"
-        },
-        {
-            "bad": "OTARIO"
-        },
-        {
-            "bad": "PACA"
-        },
-        {
-            "bad": "PASPALHA"
-        },
-        {
-            "bad": "PASPALHAO"
-        },
-        {
-            "bad": "PASPALHO"
-        },
-        {
-            "bad": "PAU"
-        },
-        {
-            "bad": "PEIA"
-        },
-        {
-            "bad": "PEIDO"
-        },
-        {
-            "bad": "PEMBA"
-        },
-        {
-            "bad": "PENIS"
-        },
-        {
-            "bad": "P-NIS"
-        },
-        {
-            "bad": "PENTELHA"
-        },
-        {
-            "bad": "PENTELHO"
-        },
-        {
-            "bad": "PERERECA"
-        },
-        {
-            "bad": "PERU"
-        },
-        {
-            "bad": "PICA"
-        },
-        {
-            "bad": "PICAO"
-        },
-        {
-            "bad": "PILANTRA"
-        },
-        {
-            "bad": "PIRANHA"
-        },
-        {
-            "bad": "PIROCA"
-        },
-        {
-            "bad": "PIROCO"
-        },
-        {
-            "bad": "PIRU"
-        },
-        {
-            "bad": "PORRA"
-        },
-        {
-            "bad": "PREGA"
-        },
-        {
-            "bad": "PROSTIBULO"
-        },
-        {
-            "bad": "PROSTITUTA"
-        },
-        {
-            "bad": "PROSTITUTO"
-        },
-        {
-            "bad": "PUNHETA"
-        },
-        {
-            "bad": "PUNHETAO"
-        },
-        {
-            "bad": "PUS"
-        },
-        {
-            "bad": "PUTA"
-        },
-        {
-            "bad": "PUTO"
-        },
-        {
-            "bad": "PUXA-SACO"
-        },
-        {
-            "bad": "PUXASACO"
-        },
-        {
-            "bad": "RABAO"
-        },
-        {
-            "bad": "RABO"
-        },
-        {
-            "bad": "RABUDA"
-        },
-        {
-            "bad": "RABUDAO"
-        },
-        {
-            "bad": "RABUDO"
-        },
-        {
-            "bad": "RABUDONA"
-        },
-        {
-            "bad": "RACHA"
-        },
-        {
-            "bad": "RACHADA"
-        },
-        {
-            "bad": "RACHADAO"
-        },
-        {
-            "bad": "RACHADINHA"
-        },
-        {
-            "bad": "RACHADINHO"
-        },
-        {
-            "bad": "RACHADO"
-        },
-        {
-            "bad": "RAMELA"
-        },
-        {
-            "bad": "REMELA"
-        },
-        {
-            "bad": "RETARDADA"
-        },
-        {
-            "bad": "RETARDADO"
-        },
-        {
-            "bad": "RIDICULA"
-        },
-        {
-            "bad": "ROLA"
-        },
-        {
-            "bad": "ROLINHA"
-        },
-        {
-            "bad": "ROSCA"
-        },
-        {
-            "bad": "SACANA"
-        },
-        {
-            "bad": "SAFADA"
-        },
-        {
-            "bad": "SAFADO"
-        },
-        {
-            "bad": "SAPATAO"
-        },
-        {
-            "bad": "SIFILIS"
-        },
-        {
-            "bad": "S-FILIS"
-        },
-        {
-            "bad": "SIRIRICA"
-        },
-        {
-            "bad": "TARADA"
-        },
-        {
-            "bad": "TARADO"
-        },
-        {
-            "bad": "TESTUDA"
-        },
-        {
-            "bad": "TEZAO"
-        },
-        {
-            "bad": "TEZUDA"
-        },
-        {
-            "bad": "TEZUDO"
-        },
-        {
-            "bad": "TROCHA"
-        },
-        {
-            "bad": "TROLHA"
-        },
-        {
-            "bad": "TROUCHA"
-        },
-        {
-            "bad": "TROUXA"
-        },
-        {
-            "bad": "TROXA"
-        },
-        {
-            "bad": "VACA"
-        },
-        {
-            "bad": "VAGABUNDA"
-        },
-        {
-            "bad": "VAGABUNDO"
-        },
-        {
-            "bad": "VAGINA"
-        },
-        {
-            "bad": "VEADA"
-        },
-        {
-            "bad": "VEADAO"
-        },
-        {
-            "bad": "VEADO"
-        },
-        {
-            "bad": "VIADA"
-        },
-        {
-            "bad": "VIADO"
-        },
-        {
-            "bad": "VIADAO"
-        },
-        {
-            "bad": "XAVASCA"
-        },
-        {
-            "bad": "XERERECA"
-        },
-        {
-            "bad": "XEXECA"
-        },
-        {
-            "bad": "XIBIU"
-        },
-        {
-            "bad": "XIBUMBA"
-        },
-        {
-            "bad": "XOTA"
-        },
-        {
-            "bad": "XOCHOTA"
-        },
-        {
-            "bad": "XOXOTA"
-        },
-        {
-            "bad": "XANA"
-        },
-        {
-            "bad": "XANINHA"
+             "good ":  "vontade "
         }
     ]
 }
