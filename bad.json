@@ -997,9 +997,6 @@
             "bad": "CLITORIS"
         },
         {
-            "bad": "CLIT+RIS"
-        },
-        {
             "bad": "COCAINA"
         },
         {
@@ -1042,19 +1039,10 @@
             "bad": "CULHAO"
         },
         {
-            "bad": "CULH+O"
-        },
-        {
-            "bad": "CULH+ES"
-        },
-        {
             "bad": "CURALHO"
         },
         {
             "bad": "CUZAO"
-        },
-        {
-            "bad": "CUZ+O"
         },
         {
             "bad": "CUZUDA"
@@ -1073,9 +1061,6 @@
         },
         {
             "bad": "DEMONIO"
-        },
-        {
-            "bad": "DEM+NIO"
         },
         {
             "bad": "DIFUNTO"
@@ -1105,13 +1090,7 @@
             "bad": "ESPORRO"
         },
         {
-            "bad": "ESP+RRO"
-        },
-        {
             "bad": "ESTUPIDA"
-        },
-        {
-            "bad": "EST+PIDA"
         },
         {
             "bad": "ESTUPIDEZ"
@@ -1160,9 +1139,6 @@
         },
         {
             "bad": "FODAO"
-        },
-        {
-            "bad": "FOD+O"
         },
         {
             "bad": "FODE"
@@ -1271,9 +1247,6 @@
         },
         {
             "bad": "LADRAO"
-        },
-        {
-            "bad": "LADR+O"
         },
         {
             "bad": "LADROEIRA"
@@ -1426,9 +1399,6 @@
             "bad": "PICAO"
         },
         {
-            "bad": "PIC+O"
-        },
-        {
             "bad": "PILANTRA"
         },
         {
@@ -1465,9 +1435,6 @@
             "bad": "PUNHETAO"
         },
         {
-            "bad": "PUNHET+O"
-        },
-        {
             "bad": "PUS"
         },
         {
@@ -1486,9 +1453,6 @@
             "bad": "RABAO"
         },
         {
-            "bad": "RAB+O"
-        },
-        {
             "bad": "RABO"
         },
         {
@@ -1496,9 +1460,6 @@
         },
         {
             "bad": "RABUDAO"
-        },
-        {
-            "bad": "RABUD+O"
         },
         {
             "bad": "RABUDO"
@@ -1514,9 +1475,6 @@
         },
         {
             "bad": "RACHADAO"
-        },
-        {
-            "bad": "RACHAD+O"
         },
         {
             "bad": "RACHADINHA"
@@ -1585,9 +1543,6 @@
             "bad": "TEZAO"
         },
         {
-            "bad": "TEZ+O"
-        },
-        {
             "bad": "TEZUDA"
         },
         {
@@ -1625,9 +1580,6 @@
         },
         {
             "bad": "VEADAO"
-        },
-        {
-            "bad": "VEAD+O"
         },
         {
             "bad": "VEADO"
